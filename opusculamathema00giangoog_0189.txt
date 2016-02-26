@@ -1,0 +1,38 @@
+MJK 180 Μιψω
+
+THEOREMA XXVI. .
+
+si fit restangulum ADC==BDE, ac praete-
+rea D F fit media proportionalis inter restas BD,
+DE, & HF=FB. Dico vocata G=AE÷cB
+fore AFC2EFB==G-EH:EH.
+
+Quoniam ressa DF media proportionalis est in·
+
+. ter reHas BD, DE, & resta BF==FH‚erit
+
+per Theor. XI. Libri l. reHangulum G . D F : E FB -··-·-
+G ε Ε H. Cum autem fit reelangulum ADC=BDE‚
+& G==AE÷CB est per Lemma G.DF=AFC÷
+EFB. Ergo etit reHangulum AFC÷EFB=
+E F B---G :E H ‚ ac dividendo erit reHangulum AF C:
+E FB a G- E H : E H. Quod demonfflate oportebat.
+
+THEOREMA XXVII.
+
+lisdem pofitis dico rationem AF C τ E FB se·
+&am a punfiio F minorem effe ratione reHanguli
+AIC:E1B festa a quovis pun& Iin rema BE
+
+fignatgmnim est per Theor. XII. Libri 1. 6.sz
+
+EFBz<:G.DI:EIB. At cum fit restangulum
+ADC=BDE, & resta G=AE÷CB est pet
+Lemma C.DF=AFC÷EFB‚ G.DI=A1C÷
+HIB. Ergo erit reHangulum AFc÷EFB2EFB=<=
+A I C ÷E I B ε ΕΙ Β 3 ac dividendo erit rePtangu·
+
+lum AFC,:EFB:<=AIC:EIB. Q.E.D.
+
+ 
+

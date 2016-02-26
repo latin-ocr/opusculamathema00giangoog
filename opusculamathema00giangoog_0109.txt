@@ -1,0 +1,37 @@
+Μ( 102 aare
+
+Cum fit retiangulum CD P -- DF P, erit C D:
+DF=FP:DP, ac componendo CFzDF==DFr
+DP3 adeoque tetiangulum C'F.DP=DP'. Qua-
+· re'eritCF.G:DF²=CF.G:CF.DP3estau·
+tem CF.G:CF.DP=G:DP. Erit igitur CF.
+G:DF¹=G:DP. Q. E. D.
+
+THEOREMA 111.
+
+·Ptaeterea dico, punitum F proprius puniio D
+auferre rationem majorem sekia a punito Η remotiori.
+Etenim cum srt reiiangulum D FP< D H P, .
+eritCDP<DHP· ,adeoqueCDt DH· <r HP:
+ΗΡ, ac componendo CH. DH. <z ·DHr DP3
+
+‘ unde reiiangulum CH. BP< DH'. Erit igitur¹
+
+CH.:.GCHDP3 >:.:²3CHGDH est autem
+
+CH. G. CH. DP=G. DP3 adeoque erit G:
+ΒΡ» 6 cn Du. Qun.
+
+Conuosrrro Eurrrcnnrrs 1.
+
+Ponatur ratio G· ·DP aequalis rationi M ad N,
+Ι inde applicetur ad retiam DP retiangulum aequale
+retiangulo C D P excedens quadrato, scilicet DF P
+qua applicatione fasta habetur puniium F quaesr-
+tum, idque solum solvet Problema, nempe erit
+
+modo singulari· per Theorerna 11. 111. CF. G:
+D F· εΗ z N.
+
+ 
+

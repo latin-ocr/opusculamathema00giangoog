@@ -1,0 +1,35 @@
+ew& 188 Idaeo ·
+
+quod solvat Problema3 &in primo casu demonstrabi-
+tur eadem Analyfi effe G.DI:CIB-MN=NX;
+est autem G.DF:CFB=MN=NX; adeoque
+erit G.DI:CIB==G.DF:CFB, quod est im·
+poffibile per Theor. XIX. Libri 1. Eadem methodo
+demonstrabitur in casu altero G. DI : A Ι E G.
+D F ι A F E, quod est aeque impoIIibile Per idem
+Theorema.
+
+THEOREMA XXXIII.
+
+Si fit reddangulum A D E == B D C, ac praete-
+reapofitaG=AC÷EBs1tredIang1ddeAEF=
+CFB in ratione MNzNXin Fig. N. 1.‚veIG.
+DFtAFE==NMzMX in Fig. N. 2. Dido fore
+reddangulum AFE2CFB=MX2NX.
+
+Εἰς. cum fit redangulum ADE==BDC‚ & redIa
+XXII. G== A C ÷E B, erit per Lemma redangulum G.
+
+Na, DF=AFE-CFB.EstautemG.DF:CFB=
+MNzNX. Ergo erit AFE-cF326FB=
+ΜΝεΝΧ, ac componendo erit AFE2CFB==
+MXtNX.
+
+fig. Eadem methodo demonstrabitur in altero casu
+
+messe cFB2AFE-2-NX2MX‚ adeoque inver-
+
+ΝΛ. tendo erit testangulum AFEchssaszNX.
+
+ 
+

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opusculamathema00giangoog/opusculamathema00giangoog_0098.png"; bbox 0 0 3936 5370; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 496 1989 1159 2244">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 496 1989 1159 2244">
+     <span class='ocr_line' id='line_1_1' title="bbox 496 1989 1159 2111; baseline 0.009 -7"><span class='ocrx_word' id='word_1_1' title='bbox 496 1989 1007 2111; x_wconf 85' lang='lat' dir='ltr'><strong>OPUSCULUM</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1053 1992 1159 2110; x_wconf 91' lang='lat' dir='ltr'><strong>III.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 629 2185 664 2244; baseline 0.057 -2"><span class='ocrx_word' id='word_1_3' title='bbox 629 2185 664 2244; x_wconf 55' lang='lat' dir='ltr'><strong><em>a</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 664 2183 1051 2250">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 664 2183 1051 2250">
+     <span class='ocr_line' id='line_1_3' title="bbox 664 2183 1051 2250; baseline 0.01 -4"><span class='ocrx_word' id='word_1_4' title='bbox 664 2183 1051 2250; x_wconf 41' lang='lat' dir='ltr'><strong>&amp;hm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 204 2339 1446 2646">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 204 2339 1446 2646">
+     <span class='ocr_line' id='line_1_4' title="bbox 204 2339 1446 2646; baseline 0.002 -6"><span class='ocrx_word' id='word_1_5' title='bbox 204 2503 663 2646; x_wconf 87' lang='lat' dir='ltr'><strong>SECTIONE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 724 2339 1446 2644; x_wconf 52' lang='lat' dir='ltr'><strong>DlgTERMINATA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1972 5364">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1972 5364">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1972 5364; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1972 5364; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
